@@ -30,18 +30,7 @@ The project is built using the MERN stack, which consists of the following techn
 
 - SCSS: A CSS preprocessor that provides additional features and enhancements to standard CSS, such as variables, nesting, and modular organization.
 
-## Usage
 
-To use the Chat App MERN, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/ak-hu/chat-app-mern.git`
-2. Navigate to the project directory: `cd chat-app-mern`
-3. Install the dependencies: `npm install`
-4. Set up the environment variables:
-   - Create a `.env` file in the root directory.
-   - Specify the required environment variables (e.g., MongoDB connection URI, JWT secret key).
-5. Start the development server: `npm start`
-6. Access the application in your web browser at `http://localhost:3000`.
 
 ## Screenshots
 
